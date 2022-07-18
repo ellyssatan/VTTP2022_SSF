@@ -1,4 +1,4 @@
-package vttp.workshop111;
+package vttp.lecture11;
 
 import java.util.Collections;
 
